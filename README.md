@@ -15,7 +15,8 @@ Q3:Training accuracy: 97.27%
 Q4:Training accuracy: 96.48%
    Testing accuracy: 88.40%
    
-Q5:
+Q5:未选择
 
 Q6:Training loss: 0.0625, Training accuracy: 98.02%
+
    Testing loss: 0.0311, Testing accuracy: 98.90%
